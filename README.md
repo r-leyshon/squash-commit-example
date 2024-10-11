@@ -6,7 +6,7 @@ Like bugs popping up in the wrong season.
 "Fix typo," "Oops, forgot this part,"  
 Ian's commit history was breaking Rich's heart.  
 Lines jumped around like a jittery cat,  
-How was Rich supposed to make sense of that?  
+One commit was labeled "something like that."
 
 He sighed and mumbled, “What’s Ian been drinking?”  
 As he stared at the code with his brain slowly sinking.  
